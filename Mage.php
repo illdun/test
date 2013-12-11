@@ -1,5 +1,6 @@
 <?php
 /**
+hahahhhahhhaha
  * Magento
  *
  * NOTICE OF LICENSE
